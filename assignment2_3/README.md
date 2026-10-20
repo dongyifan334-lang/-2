@@ -24,3 +24,7 @@ RStudio 打开 `question2_3.R`，选择 **Session → Set Working Directory → 
 Word 报告只覆盖你负责的第二题第三小问，并不替代整个小组报告。
 安装脚本和操作指南是辅助文件；PPT 是课堂展示材料。
 请按课程要求及实际情况说明辅助工具的使用。
+
+## 按小组模板制作的新版 PPT
+
+新版已放在 [template_ppt](template_ppt) 文件夹。请使用其中的 `question2_3_template.pptx`；附 PDF、总览图和备注讲稿。
