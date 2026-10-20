@@ -1,0 +1,52 @@
+Call: binsreg
+
+Binscatter Plot
+Bin/Degree selection method (binsmethod)  =  IMSE direct plug-in (select # of bins)
+Placement (binspos)                       =  Quantile-spaced
+Derivative (deriv)                        =  0
+
+Group (by)                         =  Full Sample
+Sample size (n)                    =  100000
+# of distinct values (Ndist)       =  16229
+# of clusters (Nclust)             =  NA
+dots, degree (p)                   =  0
+dots, smoothness (s)               =  0
+# of bins (nbins)                  =  27
+imse, bias^2                       =  27555575834.358
+imse, var.                         =  55349787296.897
+
+======================================
+                 p         s        df
+--------------------------------------
+    dots         0         0        27
+    line         0         0        27
+      CI        NA        NA        NA
+      CB        NA        NA        NA
+--------------------------------------
+
+Call: binsreg
+
+Binscatter Plot
+Bin/Degree selection method (binsmethod)  =  IMSE direct plug-in (select # of bins)
+Placement (binspos)                       =  Quantile-spaced
+Derivative (deriv)                        =  0
+
+Group (by)                         =  Full Sample
+Sample size (n)                    =  100000
+# of distinct values (Ndist)       =  16229
+# of clusters (Nclust)             =  NA
+dots, degree (p)                   =  0
+dots, smoothness (s)               =  0
+# of bins (nbins)                  =  27
+imse, bias^2                       =  27555575834.358
+imse, var.                         =  55349787296.897
+
+======================================
+                 p         s        df
+--------------------------------------
+    dots         0         0        27
+    line         2         2        29
+      CI        NA        NA        NA
+      CB        NA        NA        NA
+--------------------------------------
+
