@@ -1,5 +1,7 @@
 # 第二题第（3）问：按小组模板制作的新版 PPT
 
+**课堂时间有限时，请使用 [5页精简版](short_version)，配套2页Word讲稿；约3分钟讲述，另留运行时间。**
+
 请下载 `question2_3_template.pptx`，这是按你提供的第一题 PPT 模板制作的新版，可编辑，共 8 页。
 点击文件后，点击右上角下载箭头 **Download raw file**。PDF 用于预览，preview.png 是全部页面总览。
 
